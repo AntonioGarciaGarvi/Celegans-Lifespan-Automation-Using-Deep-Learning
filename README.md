@@ -1,5 +1,5 @@
 # CelegansLifespanAutomation
-Automation of Caenorhabditis elegans lifespan assay using a simplified domain synthetic image based neural network training strategy
+Automation of *Caenorhabditis elegans* lifespan assay using a simplified domain synthetic image based neural network training strategy
 
 
 ## Image adquisition system:
@@ -11,3 +11,4 @@ Images were captured by an [open hardware and software system](https://github.co
 * Puchalt, J.C.; Layana Castro, P.E.; Sánchez-Salmerón, A.-J. "Reducing Results Variance in Lifespan Machines: An Analysis of the Influence of Vibrotaxis on Wild-Type Caenorhabditis elegans for the Death Criterion". Sensors 2020, 20, 5981.[doi](https://doi.org/10.3390/s20215981)
 * Layana Castro Pablo E., Puchalt, J.C., Sánchez-Salmerón, A. "Improving skeleton algorithm for helping Caenorhabditis elegans trackers". Scientific Reports (2020) [doi](https://www.nature.com/articles/s41598-020-79430-8).
 * Puchalt, J.C., Sánchez-Salmerón, AJ., Ivorra, E. et al. "Small flexible automated system for monitoring Caenorhabditis elegans lifespan based on active vision and image processing techniques". Sci Rep 11, 12289 (2021). [doi](https://doi.org/10.1038/s41598-021-91898-6)
+* García Garví, A.; Puchalt, J.C.; Layana Castro, P.E.; Navarro Moya, F.; Sánchez-Salmerón, A.-J. "Towards Lifespan Automation for Caenorhabditis elegans Based on Deep Learning: Analysing Convolutional and Recurrent Neural Networks for Dead or Live Classification". Sensors 2021, 21, 4943.[doi](https://doi.org/10.3390/s21144943)
