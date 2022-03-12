@@ -2,7 +2,7 @@
 Automation of *Caenorhabditis elegans* lifespan assay using a simplified domain synthetic image based neural network training strategy
 
 
-## Image adquisition system:
+## Image acquisition system:
 Images were captured by an [open hardware and software system](https://github.com/JCPuchalt/SiViS).
 
 ## References 
