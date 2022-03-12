@@ -1,6 +1,7 @@
-# Celegans Lifespan Automation Using DeepLearning
+# Celegans Lifespan Automation Using Deep Learning
 Automation of *Caenorhabditis elegans* lifespan assay using a simplified domain synthetic image based neural network training strategy
-
+![GitHub Logo]()
+## *C. elegans* detection demo 
 
 ## Image acquisition system:
 Images were captured by an [open hardware and software system](https://github.com/JCPuchalt/SiViS).
