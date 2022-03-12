@@ -2,7 +2,11 @@
 Automation of *Caenorhabditis elegans* lifespan assay using a simplified domain synthetic image based neural network training strategy
 ![GitHub Logo](https://github.com/AntonioGarciaGarvi/Celegans-Lifespan-Automation-Using-Deep-Learning/blob/main/Fig1.png)
 ## *C. elegans* detection demo 
+Run the demo in [google colab](https://github.com/AntonioGarciaGarvi/Celegans-Lifespan-Automation-Using-Deep-Learning/blob/main/CelegansDetectionDemo.ipynb)
+In this demo you can see an example of how our model detects *C. elegans* and the synthetic images generated.
+## *C. elegans* lifespan demo 
 Run the demo in [google colab](https://github.com/AntonioGarciaGarvi/Celegans-Lifespan-Automation-Using-Deep-Learning/blob/main/CelegansLifespanDemo.ipynb)
+In this demo you can see an example of how our CNN-LSTM model predicts lifespan curve given the simplied domain images as input.
 ## Image acquisition system:
 Images were captured by an [open hardware and software system](https://github.com/JCPuchalt/SiViS).
 
